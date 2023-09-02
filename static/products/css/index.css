@@ -1,0 +1,24 @@
+body {
+    background: url("../img/wallpaper.jpg") no-repeat top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    padding-top: 56px;
+}
+
+.col-lg-6 #start-purchase-btn {
+    background-color: #23364e;
+    border-color: #23364e;
+    color: white;
+    padding: 3px 10px 8px 10px;
+}
+
+.col-lg-6 #start-purchase-link {
+    text-decoration: none;
+    color: white;
+}
+
+.col-lg-6 p {
+    font-size: 125%;
+}
